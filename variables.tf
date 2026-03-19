@@ -23,3 +23,13 @@ variable "admin_password" {
   type      = string
   sensitive = true
 }
+
+variable "ARM_TENANT_ID" {
+  type        = string
+  description = "The Azure Tenant ID"
+}
+
+variable "ARM_CLIENT_ID" {
+    type = string
+    description = "The Azure Tenant ID"
+}
