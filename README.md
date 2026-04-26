@@ -10,3 +10,4 @@ This line is from newbranch2, which i dont have in local
 This line is fetching team mate branch and updating in local
 
 This is new line added to newbranch2 for testing
+this new line added to newbranch2 from UI
