@@ -11,3 +11,4 @@ This line is fetching team mate branch and updating in local
 
 This is new line added to newbranch2 for testing
 this new line added to newbranch2 from UI
+This line is added direcly to main branch
