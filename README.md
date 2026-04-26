@@ -15,3 +15,5 @@ this new line added to newbranch2 from UI
 This is added to main from UI
 
 This is 2nd line added to main from UI
+
+This is added to newbranch2 from UI
