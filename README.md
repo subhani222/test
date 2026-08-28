@@ -9,13 +9,6 @@ thats great, let see this is second line udpated in github
 
 i think now i feel good
 
-git pull command testing
+This is new line added to newbranch2 for testing
 
-this line udpated in start-markdown branch
-
-This line is updated in main brancch from ui
-this line is updated in test branch from vscode
-This line is from newbranch from vscode
-This is new line added to raise new pr
-
-
+Readme updated for pull request
