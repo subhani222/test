@@ -34,6 +34,8 @@ variable "ARM_CLIENT_ID" {
     description = "The Azure Tenant ID"
 }
 
+Variable " "{
+}
 variable "ARM_CLIENT_SECRET"{
     type = string
     description = "The Azure client secret"
